@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "pool.electroneum.hashvault.pro:80", "wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.e626d4d8b6459382a70d902bf3a3179287f5991457ac7a3d576dd65918d88ba5", "pool_password" : "Decepticon:langitbyru@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "grft.easyhash.io:3830", "wallet_address" : "GC1MxaZs8T11L7G972goB3DZiucJawUdSYGaqWss9PB6MHpNDH8U26Di8SPbPx6UnSUgKdtqhEWp4Vy2RdRBEjJfUUjaC7F.5000", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
